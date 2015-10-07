@@ -1,0 +1,16 @@
+body{
+	margin: 0 auto;
+	}
+h1{
+	font-family: 'Merriweather', serif;
+}
+
+.wrapper {
+	
+}
+
+.video1 {
+	border-style: dotted solid;
+    border-width: 15px;
+    border-color: #ff0000 #0000ff;
+}
